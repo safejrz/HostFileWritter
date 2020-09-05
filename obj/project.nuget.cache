@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aOog7405Ac0U19BgWeJJ7PdBHpyziQSmai9ZCdvujNuKyazFDztNUHOjDfsKUe6xiAMSJuKAde4opOdA52OcYg==",
+  "dgSpecHash": "3CLJXe92uil+fGSgAEh1/aBV+oOQGLWxp08BBMt+EK9VESLk9pDxZRw/EuRZ0xFKKTDjdUDuLwOk2zOLZT9PlA==",
   "success": true,
-  "projectFilePath": "C:\\git\\HostFileWritter\\HostFileWritter.csproj",
+  "projectFilePath": "C:\\Github\\Repos\\HostFileWritter\\HostFileWritter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jzavala\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.7\\microsoft.extensions.configuration.3.1.7.nupkg.sha512",
     "C:\\Users\\jzavala\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.7\\microsoft.extensions.configuration.abstractions.3.1.7.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\HostFileWritter\\HostFileWritter.csproj": {}
+    "C:\\Github\\Repos\\HostFileWritter\\HostFileWritter.csproj": {}
   },
   "projects": {
-    "C:\\git\\HostFileWritter\\HostFileWritter.csproj": {
+    "C:\\Github\\Repos\\HostFileWritter\\HostFileWritter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\HostFileWritter\\HostFileWritter.csproj",
+        "projectUniqueName": "C:\\Github\\Repos\\HostFileWritter\\HostFileWritter.csproj",
         "projectName": "HostFileWritter",
-        "projectPath": "C:\\git\\HostFileWritter\\HostFileWritter.csproj",
+        "projectPath": "C:\\Github\\Repos\\HostFileWritter\\HostFileWritter.csproj",
         "packagesPath": "C:\\Users\\jzavala\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\HostFileWritter\\obj\\",
+        "outputPath": "C:\\Github\\Repos\\HostFileWritter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
